@@ -2,6 +2,6 @@
 
 int main()
 {
-    puts("\nHello world!\n");
+    puts("\nHello world!\n"); // or u can use: printf()
     return 0;
 }
